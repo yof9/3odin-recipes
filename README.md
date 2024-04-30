@@ -1,1 +1,1 @@
-This is my first project for The Odin Project. It allows me to practice my html skills, Which define the structure of a web page. It is an excciting journey , And I plan on finishing it in 3 months. Next will be CSS, SASS, Flex box and finally Javascript.  
+This is my first project for The Odin Project. It allows me to practice my html skills, Which define the structure of a web page. It is a promising journey , And I plan on finishing it in 3 months. Next will be CSS, SASS, Flex box and finally Javascript.  
