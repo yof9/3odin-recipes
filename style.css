@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+article, nav {
+    margin: 50px;
+    padding: 50px;
+}
+
+nav {
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: rgb(139, 5, 139);
+    height: 400px; 
+}
+h1 {
+    font-weight: 900;
+    font-size: 36px;
+    color: rgb(223, 219, 8);
+}
+a {
+    color: hsl(152, 84%, 32%);
+    line-height: 1.5;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+article {
+    background-color: darkkhaki;
+    font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+}
+
+article > h1 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: rgba(0, 0, 0, 0.863);
+}
+
+p, ol, ul {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-wrap: wrap;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.856);
+}
+
+ul {
+    line-height: 2;
+}
+
+.image {
+    display: block;
+    height: auto;
+    width: 360;
+    margin-left: auto;
+    margin-right: auto;
+}
